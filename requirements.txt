@@ -1,0 +1,2 @@
+alembic==1.14.0
+annotated-types==0.7.0
