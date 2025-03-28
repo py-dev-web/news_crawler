@@ -1,6 +1,5 @@
-from typing import List
-from sqlalchemy.orm import Mapped, mapped_column, relationship
-from sqlalchemy.types import TEXT, String, Integer
+from sqlalchemy.orm import mapped_column
+from sqlalchemy.types import String, Integer
 from db.engine import Base
 
 

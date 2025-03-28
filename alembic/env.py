@@ -23,7 +23,7 @@ if config.config_file_name is not None:
 from db.engine import Base
 from db.models.origin import Origin
 from db.models.endpoint import Endpoint
-from db.models.news import News
+from db.models.article import Article
 
 target_metadata = Base.metadata
 
